@@ -52,7 +52,7 @@ module.exports = {
   // you provide. See the documentation for details.
   links: [
     {
-      name: 'user-astronaut',
+      name: 'Riceneeder',
       link: 'https://gankun.cn.ma',
     },
     {
